@@ -4,16 +4,168 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb086b54-0d3b-4f95-95ea-1ebcb23a0d51" name="Changes" comment="" />
+    <list default="true" id="eb086b54-0d3b-4f95-95ea-1ebcb23a0d51" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_13_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/pattern matching-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/pattern matching.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tinkoff/eternal contest/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tinkoff/eternal contest/src/main/scala/ex6.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.bsp/sbt.json" beforeDir="false" afterPath="$PROJECT_DIR$/.bsp/sbt.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_14_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/scala-introduction-stepik--build.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/scala-introduction-stepik-.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$40e524c8c60c858f4228$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$40e524c8c60c858f4228.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$40e524c8c60c858f4228.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4fd7ea5dcbd0cdd03974$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4fd7ea5dcbd0cdd03974.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4fd7ea5dcbd0cdd03974.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4fdbece66215890f2e77$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4fdbece66215890f2e77.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4fdbece66215890f2e77.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d08fa2cbb982a5b4200f$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d08fa2cbb982a5b4200f.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d08fa2cbb982a5b4200f.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/_global/update/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileOutputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileOutputs/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/incOptions/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/incOptions/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/genericMethods.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/genericMethods.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/genericMethods2$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/genericMethods2$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinkoff/eternal contest/.bsp/sbt.json" beforeDir="false" afterPath="$PROJECT_DIR$/../tinkoff/eternal contest/.bsp/sbt.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinkoff/eternal contest/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_2_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tinkoff/eternal contest/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_2_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinkoff/eternal contest/.idea/modules/eternal contest-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../tinkoff/eternal contest/.idea/modules/eternal contest-build.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinkoff/eternal contest/.idea/modules/eternal contest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../tinkoff/eternal contest/.idea/modules/eternal contest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinkoff/eternal contest/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tinkoff/eternal contest/.idea/sbt.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinkoff/eternal contest/project/target/config-classes/$cf21d175092ab8c921e4$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinkoff/eternal contest/project/target/config-classes/$cf21d175092ab8c921e4.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinkoff/eternal contest/project/target/config-classes/$cf21d175092ab8c921e4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinkoff/eternal contest/project/target/config-classes/$d96795f7820aa73cdb44$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinkoff/eternal contest/project/target/config-classes/$d96795f7820aa73cdb44.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinkoff/eternal contest/project/target/config-classes/$d96795f7820aa73cdb44.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinkoff/eternal contest/project/target/config-classes/$e0be00b035551b7b1f46$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinkoff/eternal contest/project/target/config-classes/$e0be00b035551b7b1f46.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinkoff/eternal contest/project/target/config-classes/$e0be00b035551b7b1f46.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinkoff/eternal contest/project/target/config-classes/$e7735929e78cf5eae295$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinkoff/eternal contest/project/target/config-classes/$e7735929e78cf5eae295.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinkoff/eternal contest/project/target/config-classes/$e7735929e78cf5eae295.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinkoff/eternal contest/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/../tinkoff/eternal contest/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinkoff/eternal contest/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/../tinkoff/eternal contest/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinkoff/eternal contest/project/target/streams/_global/update/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../tinkoff/eternal contest/project/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinkoff/eternal contest/project/target/streams/compile/_global/_global/compileOutputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/../tinkoff/eternal contest/project/target/streams/compile/_global/_global/compileOutputs/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinkoff/eternal contest/project/target/streams/compile/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../tinkoff/eternal contest/project/target/streams/compile/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinkoff/eternal contest/project/target/streams/compile/exportedProducts/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../tinkoff/eternal contest/project/target/streams/compile/exportedProducts/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinkoff/eternal contest/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../tinkoff/eternal contest/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinkoff/eternal contest/project/target/streams/compile/incOptions/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../tinkoff/eternal contest/project/target/streams/compile/incOptions/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinkoff/eternal contest/project/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../tinkoff/eternal contest/project/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinkoff/eternal contest/project/target/streams/runtime/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../tinkoff/eternal contest/project/target/streams/runtime/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinkoff/eternal contest/project/target/streams/runtime/exportedProducts/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../tinkoff/eternal contest/project/target/streams/runtime/exportedProducts/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinkoff/eternal contest/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../tinkoff/eternal contest/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinkoff/eternal contest/project/target/streams/runtime/fullClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../tinkoff/eternal contest/project/target/streams/runtime/fullClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinkoff/eternal contest/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../tinkoff/eternal contest/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinkoff/eternal contest/project/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../tinkoff/eternal contest/project/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinkoff/eternal contest/target/.history3" beforeDir="false" afterPath="$PROJECT_DIR$/../tinkoff/eternal contest/target/.history3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinkoff/eternal contest/target/scala-2.11/update/update_cache_2.11/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/../tinkoff/eternal contest/target/scala-2.11/update/update_cache_2.11/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinkoff/eternal contest/target/scala-2.11/update/update_cache_2.11/output" beforeDir="false" afterPath="$PROJECT_DIR$/../tinkoff/eternal contest/target/scala-2.11/update/update_cache_2.11/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinkoff/eternal contest/target/streams/_global/_global/dumpStructure/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../tinkoff/eternal contest/target/streams/_global/_global/dumpStructure/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinkoff/eternal contest/target/streams/_global/updateClassifiers/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../tinkoff/eternal contest/target/streams/_global/updateClassifiers/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinkoff/eternal contest/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.11/output" beforeDir="false" afterPath="$PROJECT_DIR$/../tinkoff/eternal contest/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.11/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinkoff/eternal contest/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../tinkoff/eternal contest/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinkoff/eternal contest/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../tinkoff/eternal contest/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinkoff/eternal contest/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../tinkoff/eternal contest/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinkoff/eternal contest/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../tinkoff/eternal contest/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinkoff/eternal contest/target/streams/test/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../tinkoff/eternal contest/target/streams/test/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tinkoff/eternal contest/target/streams/test/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../tinkoff/eternal contest/target/streams/test/managedClasspath/_global/streams/export" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
   <component name="ProjectId" id="24M9SCx7Ok0Cxplwn03bEQKMAbS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ex6" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ex6" />
+      <module name="pattern matching" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ex6" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb086b54-0d3b-4f95-95ea-1ebcb23a0d51" name="Changes" comment="" />
+      <created>1643533350787</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643533350787</updated>
+      <workItem from="1643533352142" duration="785000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
 </project>
