@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb086b54-0d3b-4f95-95ea-1ebcb23a0d51" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/partialFunctions.scala" afterDir="false" />
+    <list default="true" id="eb086b54-0d3b-4f95-95ea-1ebcb23a0d51" name="Changes" comment="Changes">
+      <change beforePath="$PROJECT_DIR$/.bsp/sbt.json" beforeDir="false" afterPath="$PROJECT_DIR$/.bsp/sbt.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/pattern matching-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/pattern matching-build.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/pattern matching.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/pattern matching.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.history3" beforeDir="false" afterPath="$PROJECT_DIR$/target/.history3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,13 +46,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager" selected="Application.partialFunctions2">
+  <component name="RunManager" selected="Application.tuples">
     <configuration name="ex6" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="ex6" />
       <module name="pattern matching" />
@@ -68,8 +76,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="tuples" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="tuples" />
+      <module name="pattern matching" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.tuples" />
         <item itemvalue="Application.partialFunctions2" />
         <item itemvalue="Application.partialFunctions" />
         <item itemvalue="Application.ex6" />
@@ -85,7 +101,10 @@
       <option name="presentableId" value="Default" />
       <updated>1643533350787</updated>
       <workItem from="1643533352142" duration="785000" />
-      <workItem from="1643611613266" duration="2392000" />
+      <workItem from="1643611613266" duration="2678000" />
+      <workItem from="1643727983660" duration="269000" />
+      <workItem from="1643787873953" duration="129000" />
+      <workItem from="1643808399805" duration="1000" />
     </task>
     <servers />
   </component>
