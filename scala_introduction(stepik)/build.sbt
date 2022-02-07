@@ -1,5 +1,8 @@
-name := "scala_introduction(stepik)"
+ThisBuild / version := "0.1.0-SNAPSHOT"
 
-version := "0.1"
+ThisBuild / scalaVersion := "2.13.8"
 
-scalaVersion := "2.12.0"
+lazy val root = (project in file("."))
+  .settings(
+    name := "scala_introduction(stepik)"
+  )
