@@ -6,9 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="094a0a49-cbfd-4bce-8752-f22e62d03271" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/test.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/test.sc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/either2$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/either2$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/test.sc" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/test.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/collections2$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/collections2.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +42,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/scala" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -55,7 +54,7 @@
       <recent name="$PROJECT_DIR$/src/main/scala" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.collections2">
+  <component name="RunManager" selected="Application.collections4">
     <configuration name="collections" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="collections" />
       <module name="scala_introduction(stepik)" />
@@ -70,8 +69,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="either" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="either" />
+    <configuration name="collections3" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="collections3" />
+      <module name="scala_introduction(stepik)" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="collections4" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="collections4" />
       <module name="scala_introduction(stepik)" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,10 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.collections4" />
+        <item itemvalue="Application.collections3" />
         <item itemvalue="Application.collections2" />
         <item itemvalue="Application.collections" />
         <item itemvalue="Application.either2" />
-        <item itemvalue="Application.either" />
       </list>
     </recent_temporary>
   </component>
@@ -109,7 +116,10 @@
       <workItem from="1644414448431" duration="10433000" />
       <workItem from="1644457931984" duration="598000" />
       <workItem from="1644504161341" duration="13076000" />
-      <workItem from="1644590060367" duration="2768000" />
+      <workItem from="1644590060367" duration="4833000" />
+      <workItem from="1644704739750" duration="598000" />
+      <workItem from="1644884850290" duration="101000" />
+      <workItem from="1644948653101" duration="8682000" />
     </task>
     <servers />
   </component>
