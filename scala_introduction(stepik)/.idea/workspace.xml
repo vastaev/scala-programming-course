@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="094a0a49-cbfd-4bce-8752-f22e62d03271" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/collections2$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/collections2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/test.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/test.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/collections4$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/collections4$.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +32,9 @@
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="24dfFcRroWfeB7L7DeF4xMr3KXa" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -54,14 +56,7 @@
       <recent name="$PROJECT_DIR$/src/main/scala" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.collections4">
-    <configuration name="collections" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="collections" />
-      <module name="scala_introduction(stepik)" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.forComprehension">
     <configuration name="collections2" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="collections2" />
       <module name="scala_introduction(stepik)" />
@@ -83,8 +78,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="either2" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="either2" />
+    <configuration name="collections5" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="collections5" />
+      <module name="scala_introduction(stepik)" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="forComprehension" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="forComprehension" />
       <module name="scala_introduction(stepik)" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.forComprehension" />
+        <item itemvalue="Application.collections5" />
         <item itemvalue="Application.collections4" />
         <item itemvalue="Application.collections3" />
         <item itemvalue="Application.collections2" />
-        <item itemvalue="Application.collections" />
-        <item itemvalue="Application.either2" />
       </list>
     </recent_temporary>
   </component>
@@ -119,7 +121,10 @@
       <workItem from="1644590060367" duration="4833000" />
       <workItem from="1644704739750" duration="598000" />
       <workItem from="1644884850290" duration="101000" />
-      <workItem from="1644948653101" duration="8682000" />
+      <workItem from="1644948653101" duration="8869000" />
+      <workItem from="1646084069290" duration="2188000" />
+      <workItem from="1646129697941" duration="599000" />
+      <workItem from="1646423608544" duration="4037000" />
     </task>
     <servers />
   </component>
