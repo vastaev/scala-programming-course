@@ -5,16 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="721b0c48-2b22-4fa6-8a30-930d2645feae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/stepik-scala-basics/playground/ScalaPlayground$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/stepik-scala-basics/playground/ScalaPlayground$delayedInit$body.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/stepik-scala-basics/playground/ScalaPlayground.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/playground/ScalaPlayground.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stepik-scala-basics.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,9 +49,22 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager" selected="Application.Expressions">
+  <component name="RunManager" selected="Application.Functions">
     <configuration name="Expressions" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="lectures.week1basics.Expressions" />
+      <module name="stepik-scala-basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.week1basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Functions" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.week1basics.Functions" />
       <module name="stepik-scala-basics" />
       <extension name="coverage">
         <pattern>
@@ -101,6 +104,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Functions" />
         <item itemvalue="Application.Expressions" />
         <item itemvalue="Application.StringOperations" />
         <item itemvalue="Application.ScalaPlayground" />
@@ -116,6 +120,7 @@
       <option name="presentableId" value="Default" />
       <updated>1652697376331</updated>
       <workItem from="1652697377376" duration="1143000" />
+      <workItem from="1652707451951" duration="309000" />
     </task>
     <servers />
   </component>
