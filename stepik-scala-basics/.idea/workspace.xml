@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="721b0c48-2b22-4fa6-8a30-930d2645feae" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/lectures/week1basics/Recursion.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +50,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager" selected="Application.Functions">
+  <component name="RunManager" selected="Application.Recursion">
     <configuration name="Expressions" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="lectures.week1basics.Expressions" />
       <module name="stepik-scala-basics" />
@@ -65,6 +66,19 @@
     </configuration>
     <configuration name="Functions" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="lectures.week1basics.Functions" />
+      <module name="stepik-scala-basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.week1basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Recursion" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.week1basics.Recursion" />
       <module name="stepik-scala-basics" />
       <extension name="coverage">
         <pattern>
@@ -104,6 +118,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Recursion" />
         <item itemvalue="Application.Functions" />
         <item itemvalue="Application.Expressions" />
         <item itemvalue="Application.StringOperations" />
@@ -120,7 +135,9 @@
       <option name="presentableId" value="Default" />
       <updated>1652697376331</updated>
       <workItem from="1652697377376" duration="1143000" />
-      <workItem from="1652707451951" duration="309000" />
+      <workItem from="1652707451951" duration="756000" />
+      <workItem from="1652726841040" duration="122000" />
+      <workItem from="1652791237789" duration="2272000" />
     </task>
     <servers />
   </component>
