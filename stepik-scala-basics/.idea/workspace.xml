@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="721b0c48-2b22-4fa6-8a30-930d2645feae" name="Changes" comment="Changes">
+    <list default="true" id="721b0c48-2b22-4fa6-8a30-930d2645feae" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stepik-scala-basics/exercises/Empty$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stepik-scala-basics/exercises/Empty$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stepik-scala-basics/exercises/Empty.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stepik-scala-basics/exercises/Empty.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stepik-scala-basics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/stepik-scala-basics.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,40 +60,15 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.LinkedList">
-    <configuration name="EventListener" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.EventListener" />
-      <module name="stepik-scala-basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.transferNetwork">
     <configuration name="Generics" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="lectures.week2oop.Generics" />
       <module name="stepik-scala-basics" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="lectures.week2oop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InheritanceProblems" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.InheritanceProblems" />
-      <module name="stepik-scala-basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,8 +89,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LogSystem" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.LogSystem" />
+    <configuration name="PartialFunctions" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.week3fp.PartialFunctions" />
+      <module name="stepik-scala-basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.week3fp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Summary" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.week3fp.Summary" />
+      <module name="stepik-scala-basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.week3fp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="transferNetwork" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.transferNetwork" />
       <module name="stepik-scala-basics" />
       <extension name="coverage">
         <pattern>
@@ -126,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.transferNetwork" />
+        <item itemvalue="Application.Summary" />
+        <item itemvalue="Application.PartialFunctions" />
         <item itemvalue="Application.LinkedList" />
         <item itemvalue="Application.Generics" />
-        <item itemvalue="Application.LogSystem" />
-        <item itemvalue="Application.InheritanceProblems" />
-        <item itemvalue="Application.EventListener" />
       </list>
     </recent_temporary>
   </component>
@@ -150,6 +154,11 @@
       <workItem from="1652880187877" duration="9418000" />
       <workItem from="1652901850393" duration="761000" />
       <workItem from="1652919420610" duration="140000" />
+      <workItem from="1653120212776" duration="116000" />
+      <workItem from="1653120334221" duration="9410000" />
+      <workItem from="1653133313675" duration="1554000" />
+      <workItem from="1653217613173" duration="599000" />
+      <workItem from="1653291114870" duration="12816000" />
     </task>
     <servers />
   </component>
@@ -166,7 +175,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -175,6 +183,11 @@
           <url>file://$PROJECT_DIR$/src/exercises/InheritanceProblems.scala</url>
           <line>45</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/exercises/transferNetwork.scala</url>
+          <line>70</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
