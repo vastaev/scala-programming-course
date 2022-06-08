@@ -6,8 +6,16 @@
   <component name="ChangeListManager">
     <list default="true" id="721b0c48-2b22-4fa6-8a30-930d2645feae" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stepik-scala-basics/exercises/BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stepik-scala-basics/exercises/BinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stepik-scala-basics/exercises/Node$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stepik-scala-basics/exercises/Node$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stepik-scala-basics/exercises/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stepik-scala-basics/exercises/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stepik-scala-basics/exercises/TreeEnd$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stepik-scala-basics/exercises/TreeEnd$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stepik-scala-basics/exercises/Trees$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stepik-scala-basics/exercises/Trees$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stepik-scala-basics/exercises/Trees$delayedInit$body.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stepik-scala-basics/exercises/Trees$delayedInit$body.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stepik-scala-basics/exercises/Trees.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stepik-scala-basics/exercises/Trees.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/stepik-scala-basics/playground/ScalaPlayground$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stepik-scala-basics/playground/ScalaPlayground$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/stepik-scala-basics/playground/ScalaPlayground.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stepik-scala-basics/playground/ScalaPlayground.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stepik-scala-basics/playground/ScalaPlayground$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises/Trees.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercises/Trees.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/playground/ScalaPlayground.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/playground/ScalaPlayground.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +30,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Package Object" />
+        <option value="Scala Worksheet" />
       </list>
     </option>
   </component>
@@ -37,6 +46,8 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.scala" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.scala" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///Dummy.scala" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///Dummy.scala" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///Dummy.scala" root0="SKIP_HIGHLIGHTING" />
@@ -63,7 +74,8 @@
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
   <component name="RunManager" selected="Application.Trees">
@@ -185,7 +197,13 @@
       <workItem from="1654108567682" duration="599000" />
       <workItem from="1654188400442" duration="9848000" />
       <workItem from="1654285325003" duration="6795000" />
-      <workItem from="1654323888996" duration="6590000" />
+      <workItem from="1654323888996" duration="7999000" />
+      <workItem from="1654337649209" duration="835000" />
+      <workItem from="1654429855191" duration="17380000" />
+      <workItem from="1654455295893" duration="546000" />
+      <workItem from="1654532983884" duration="2693000" />
+      <workItem from="1654618420910" duration="2662000" />
+      <workItem from="1654704186441" duration="1919000" />
     </task>
     <servers />
   </component>
@@ -212,8 +230,13 @@
         </breakpoint>
         <line-breakpoint enabled="true" type="scala-line">
           <url>file://$PROJECT_DIR$/src/exercises/Trees.scala</url>
-          <line>39</line>
+          <line>50</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/exercises/Trees.scala</url>
+          <line>161</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
